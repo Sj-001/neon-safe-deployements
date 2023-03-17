@@ -1,6 +1,6 @@
 {
   "name": "@neon/safe-deployments",
-  "version": "1.20.2",
+  "version": "1.21.0",
   "description": "Collection of Neon <> Safe singleton deployments",
   "homepage": "https://github.com/Sj-001/neon-safe-deployements.git",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "Wallet",
     "Safe"
   ],
-  "author": "sj@neonlabs.org",
+  "author": "sj-001",
   "bugs": {
     "url": "https://github.com/Sj-001/neon-safe-deployements/issues"
   },
